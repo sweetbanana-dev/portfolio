@@ -15,7 +15,7 @@ export const experienceData = [
   },
   {
     id: 3,
-    company: "Espirit Technologies Private Limited",
+    company: "ArbiSoft",
     jobtitle: "Frontend Engineer",
     startYear: "Jun 2015",
     endYear: "Feb 2017",
