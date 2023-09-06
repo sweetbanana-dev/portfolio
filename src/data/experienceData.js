@@ -1,23 +1,23 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Toptal",
+    company: "RadixWeb",
     jobtitle: "Senior Full-Stack Engineer",
-    startYear: "March 2020",
+    startYear: "Nov 2020",
     endYear: "Present",
   },
   {
     id: 2,
-    company: "Espirit Technologies Private Limited",
+    company: "Instinctools",
     jobtitle: "Full-Stack Engineer",
-    startYear: "May 2017",
-    endYear: "Feb 2020",
+    startYear: "Mar 2017",
+    endYear: "Nov 2020",
   },
   {
     id: 3,
     company: "Espirit Technologies Private Limited",
     jobtitle: "Frontend Engineer",
-    startYear: "June 2015",
-    endYear: "May 2017",
+    startYear: "Jun 2015",
+    endYear: "Feb 2017",
   },
 ];

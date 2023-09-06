@@ -1,12 +1,11 @@
-import corey from "../assets/png/Corey.png";
+import casey from "../assets/png/Casey.png";
 
 export const headerData = {
-  name: "COREY GRAY",
+  name: "CASEY RUDNICK",
   title: "Hello! I am",
   desciption:
-    "Hello! I am COREY GRAY, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
-  image: corey,
-  imagebw: "https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg",
+    "Hello! I am CASEY RUDNICK, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
+  image: casey,
   resumePdf:
-    "https://drive.google.com/file/d/1RsK2qiObRxRIj5jjYmR63FldBa5eN9Tf/view?usp=drive_link",
+    "https://drive.google.com/file/d/1rSg6rkpaZFRutDiv0pCmnlQM2R4uaTny/view?usp=drive_link",
 };

@@ -4,8 +4,8 @@ import Typed from "react-typed";
 import { headerData } from "../../../data/headerData";
 import "./landing.css";
 
-import { FaLinkedin } from "react-icons/fa";
-import { contactsData } from "../../../data/contactsData";
+// import { FaLinkedin } from "react-icons/fa";
+// import { contactsData } from "../../../data/contactsData";
 
 function LandingUI({ theme, drawerOpen, classes }) {
   return (
@@ -15,7 +15,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
           className="landing--container-left"
           style={{ backgroundColor: theme.quaternary }}
         >
-          <div className="lcl--content">
+          {/* <div className="lcl--content">
             {contactsData.linkedIn && (
               <a href={contactsData.linkedIn} target="_blank" rel="noreferrer">
                 <FaLinkedin
@@ -25,7 +25,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
                 />
               </a>
             )}
-          </div>
+          </div> */}
         </div>
         <img
           src={headerData.image}
